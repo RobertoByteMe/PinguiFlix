@@ -7,13 +7,13 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div style={{ background: "#DDE4ED" }}>
+    <div style={{ background: '#DDE4ED' }}>
       <Menu />
 
-      <BannerMain 
+      <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"#PINGUIOFICIAL --> Nos siga nas redes sociais!"}
+        videoDescription={'#PINGUIOFICIAL --> Nos siga nas redes sociais!'}
       />
 
       <Carousel
@@ -36,7 +36,7 @@ function App() {
         category={dadosIniciais.categorias[3]}
       />
 
-      <Footer/>
+      <Footer />
     </div>
   );
 }
