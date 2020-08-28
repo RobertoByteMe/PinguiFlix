@@ -2,11 +2,11 @@
   "categorias": [
     {
       "titulo": "Como Usar",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "https://pingui.com.br",
       "cor": "#299AB3",
       "link_extra": {
         "text": "Tudo que precisa para começar!",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": "https://pingui.com.br"
       },
       "videos": [
         {
@@ -48,12 +48,12 @@
       "cor": "#299AB3",
       "link_extra": {
         "text": "Pilulas de sabedoria que reunimos",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "url": "https://pingui.com.br"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Live - Lançando o catálogo com pessoas fantástica",
+          "url": "https://youtu.be/OldG0ONr4eQ"
         },
         {
           "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
@@ -78,7 +78,7 @@
       "cor": "#299AB3",
       "link_extra": {
         "text": "O que aprendemos sobre fidelidade, compartilhamos com você!",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "url": "https://pingui.com.br"
       },
       "videos": [
         {
@@ -104,7 +104,7 @@
       "cor": "#299AB3",
       "link_extra": {
         "text": "Além de cliente, aliado!",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "url": "https://pingui.com.br"
       },
       "videos": [
         {
